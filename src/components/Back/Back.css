@@ -1,0 +1,11 @@
+.back {
+  background-color: white;
+}
+
+.logoUcenm {
+  width: 100px;
+  display: flex;
+  padding: 0.5rem;
+  position: relative;
+  left: 550px;
+}
