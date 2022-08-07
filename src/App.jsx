@@ -35,9 +35,7 @@ function App() {
       <About />
       <Slider imagenes={mockImages} />
       <Info />
-      npm
       <Footer />
-      <Back />
     </div>
   );
 }

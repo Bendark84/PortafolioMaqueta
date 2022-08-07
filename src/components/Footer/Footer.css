@@ -72,6 +72,10 @@
 p {
   font-size: 20px;
 }
+.wikipedia {
+  text-decoration: none;
+  color: blanchedalmond;
+}
 
 @media screen and (max-width: 999px) {
   .footer-info {
